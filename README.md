@@ -17,8 +17,8 @@ To incentivize public engagement in truth-seeking and media accountability by re
 - **Token Name**: AIRWAR
 - **Ticker**: WAR
 - **Ledger**: XRP Ledger (XRPL)
-- **Total Supply**: [Insert Total Supply]
-- **Issuer Address**: [Insert r-Address]
+- **Total Supply**: [1,000,000,000]
+- **Issuer Address**: [rBGyyD6copXb4gmpVfhcp9UVoPm7Sa1dh4]
 - **Domain Link**: [Insert if set in token metadata]
 - **Metadata File**: [Link to airwar-metadata.json]
 
@@ -54,7 +54,7 @@ See [`airwar-metadata.json`](./airwar-metadata.json) and upcoming smart contract
 
 - Twitter: [Insert]
 - Telegram: [Insert]
-- Contact: [Insert email or contact form link]
+- Contact: [sneff1@mail.umassglobal.edu]
 
 ---
 
