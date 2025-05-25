@@ -91,4 +91,18 @@ As part of our commitment to transparency and immutability, the issuer wallet fo
 ### 🔗 Public XRPL Tools
 - [Bithomp Account View](https://bithomp.com/explorer/rnz52TUv7TNYT8Md465jD6GEq7B6NBnZez)
 - [XRPSCAN Account View](https://xrpscan.com/account/rnz52TUv7TNYT8Md465jD6GEq7B6NBnZez)
+- 
+## 🔒 Blackhole Proof
+
+The AIRWAR issuer wallet has been **permanently blackholed** to ensure trust, decentralization, and immutability.
+
+- **Issuer Address**: [`rnz52TUv7TNYT8Md465jD6GEq7B6NBnZez`](https://xrpscan.com/account/rnz52TUv7TNYT8Md465jD6GEq7B6NBnZez)
+- **Blackhole Transaction Hash**: [`D3145B01E6FAA59959B3B900BAC54CA5B6B68B48ED5628506F474609CB3470B9`](https://xrpscan.com/tx/D3145B01E6FAA59959B3B900BAC54CA5B6B68B48ED5628506F474609CB3470B9)
+
+✅ This transaction disables the master key of the issuer wallet using `SetFlag = asfDisableMaster`. As a result, the issuer can no longer:
+- Mint additional AIRWAR tokens
+- Freeze user assets
+- Modify trustlines or token parameters
+
+🔗 Learn more about [XRPL blackhole accounts](https://xrpl.org/blackhole-accounts.html).
 
