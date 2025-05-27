@@ -1,18 +1,22 @@
 {
-    "name": "AIRWAR",
-    "currency": "XWA",
-    "issuer": "rBGyyD6copXb4gmpVfhcp9UVoPm7Sa1dh4",
-    "description": "AI-powered real world asset token built on the XRP Ledger.",
-    "image": "https://i.imgur.com/PntpJJ5.png",
-    "url": "https://example.com",
-    "attributes": {
-        "category": [
-            "AI",
-            "RWA",
-            "Tokenized Asset"
-        ],
-        "compliance": {
-            "requireAuthorization": true
-        }
+  "name": "AIRWAR",
+  "currency": "WAR",
+  "issuer": "rBGyyD6copXb4gmpVfhcp9UVoPm7Sa1dh4",
+  "description": "AI-powered real world asset token built on the XRP Ledger.",
+  "image": "https://i.imgur.com/PntpJJ5.png",
+  "url": "https://github.com/Pismo-Peckerwood-PhD/airwar-token",
+  "total_supply": "1000000000",
+  "decimals": 0,
+  "blackhole": true,
+  "blackhole_proof": "D3145B01E6FAA59959B3B900BAC54CA5B6B68B48ED5628506F474609CB3470B9",
+  "attributes": {
+    "category": [
+      "AI",
+      "RWA",
+      "Tokenized Asset"
+    ],
+    "compliance": {
+      "requireAuthorization": false
     }
+  }
 }
